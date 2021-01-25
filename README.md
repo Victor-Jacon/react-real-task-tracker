@@ -68,3 +68,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## For Jacon's Creativity Surges..
+
+-Create a week and month view
+-Drag and Drop to week and month
+-Show stats of the day (which will also we useContext, depending the user choice's)
+
+# User Preferences (using useContext)
+
+-Glass ui revamp (please, it's beautiful)
+-Glass ui ux (no ui-card-flipping-stuff, this is terrible for ux)
+-Dark mode switch (like github's cat)
+-Name
+-Picture
+-Language (pt, en)
+
+# Analytics
+
+(Toggle) UseContext option to Show most important analytics on the header
+
+it starts with default, using useState
+main stats:
+
+tasks completed
+productivityIndex(timeItActuallyTookToFinish - timeRequired)
+As the manager will appoint tasks, if the employee finishes earlier , it means that it is more productive than expected. The opposite is also true.
+total points (you may reward yourself, some beer after work, maybe??)
+
+weekProductivityIndex (Considering the week, is the employee's productivity good, or is it bad? )
+
+godSnippets (it is a macro for creating repetitive tasks, like rafce creates components in react, each user can create its own. It will create default props for the task component ahead of time and you can populate them when you type inside the input of new task)
