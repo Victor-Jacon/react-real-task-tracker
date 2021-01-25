@@ -79,7 +79,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 -Create a week and month view
 -Drag and Drop to week and month
--Show stats of the day (which will also we useContext, depending the user choice's)
+-Show stats of the day (which will also be a useContext, depending the user choices)
 
 # User Preferences (using useContext)
 
