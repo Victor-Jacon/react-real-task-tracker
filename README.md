@@ -69,7 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## For Jacon's Creativity Surges..
+# Tracking Progress
+
+-Put a Json.server fake backend ✔️
+
+(wanna test it? just open another terminal for the json server, and run npm start )
+
+# For Jacon's Creativity Surges..#
 
 -Create a week and month view
 -Drag and Drop to week and month
